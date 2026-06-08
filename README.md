@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/banner.png" alt="Banner Image">
+<img src="https://github.com/jannat337/jannat337/blob/main/banner.png" alt="Banner Image">
 
 
 <div align="center">
@@ -10,7 +10,7 @@
   </a>
   <br />
    Frontend developer from 
-  <img src="https://github.com/arjsabbir88/arjsabbir88/blob/main/bangladesh.png" width="20"/> Dhaka, Bangladesh.
+  <img src="https://github.com/jannat337/jannat337/blob/main/bangladesh.png" width="20"/> Dhaka, Bangladesh.
 </div>
 
 
@@ -21,7 +21,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const tariqul = {
+const Jannat = {
     pronouns: "He" | "Him",
     code: ["C++", "Javascript", "Python", "React"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
@@ -54,10 +54,8 @@ const tariqul = {
 
 ## 🌱 Learning Goals
 - Clean architecture
-- ML,cyber security
 - PostgreSQL,MYSQL,redis
 - API performance optimization
-
 
 <hr/>
 
