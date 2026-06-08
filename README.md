@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1 align="center">Welcome to my page!</h1> <br>
-   <a href="https://github.com/arjsabbir88" target="_blank">
+   <a href="https://github.com/jannat337" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Hi+I+am+Jannatul+Ferdousi." alt="Typing SVG" />
   </a>
   <br />
@@ -15,7 +15,7 @@
 
 
 # 💫 About Me:
-## 🚀 About Me<br>- 🔭 Currently working on: MERN-stack web apps with React, Node.js && MongoDB <br>- 🌱 Learning: Next.js,Python && C++ <br>- 💬 Ask me about: JavaScript, React, Firebase, MongoDB  <br>- 📫 How to reach me: jannatulferdauz3@gmail.com  <br>- ⚡ Fun fact: I love solving real-world problems with clean UI!
+## 🚀 About Me<br>- 🔭 Currently working on: MERN-stack web apps with React, Node.js && MongoDB <br>- 🌱 Learning: Next.js && C++ <br>- 💬 Ask me about: JavaScript, React, Firebase, MongoDB  <br>- 📫 How to reach me: jannatulferdauz3@gmail.com  <br>- ⚡ Fun fact: I love solving real-world problems with clean UI!
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -23,7 +23,7 @@
 ```javascript
 const Jannat = {
     pronouns: "He" | "Him",
-    code: ["C++", "Javascript", "Python", "React"],
+    code: ["C++", "Javascript", "React"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
@@ -35,7 +35,7 @@ const Jannat = {
             js: ["Node", "Express", "NestJS"],
         },
         devOps: ["CI/CD", "Nginx", "GitHub Actions"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        databases: ["MongoDB","Firebase Realtime DB", "redis"],
         misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
         generativeAI: ["GPT", "Vectorization"],
     },
